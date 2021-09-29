@@ -110,7 +110,7 @@ ATOM RegMyWindowClass(HINSTANCE hInst, LPCTSTR lpzClassName)
 	wcWindowClass.lpszClassName = lpzClassName;
 	wcWindowClass.hCursor = (HICON)LoadImage(NULL, _T("./poin.ico"), IMAGE_CURSOR, 20, 20, LR_LOADFROMFILE);
 	wcWindowClass.hIcon = (HICON)LoadImage(NULL, _T("./sun.ico"), IMAGE_ICON, 0, 0, LR_LOADFROMFILE);
-	wcWindowClass.hbrBackground = (HBRUSH)(CreateSolidBrush(RGB(255, 255, 255)));
+	wcWindowClass.hbrBackground = (HBRUSH)(CreateSolidBrush(RGB(225, 242, 242)));
 	return RegisterClass(&wcWindowClass);
 }
 
