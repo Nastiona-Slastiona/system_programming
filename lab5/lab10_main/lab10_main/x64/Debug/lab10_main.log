@@ -1,0 +1,6 @@
+﻿  lab10_main.cpp
+C:\Universe\3course\сп\SP-853503\lab5\lab10_main\lab10_main\lab10_main.cpp(124,17): warning C4244: =: преобразование "LPARAM" в "int", возможна потеря данных
+C:\Universe\3course\сп\SP-853503\lab5\lab10_main\lab10_main\lab10_main.cpp(126,17): warning C4244: =: преобразование "LPARAM" в "int", возможна потеря данных
+C:\Universe\3course\сп\SP-853503\lab5\lab10_main\lab10_main\lab10_main.cpp(119,15): warning C4101: wmEvent: неиспользованная локальная переменная
+C:\Universe\3course\сп\SP-853503\lab5\lab10_main\lab10_main\lab10_main.cpp(119,9): warning C4101: wmId: неиспользованная локальная переменная
+  lab10_main.vcxproj -> C:\Universe\3course\сп\SP-853503\lab5\lab10_main\x64\Debug\lab10_main.exe
