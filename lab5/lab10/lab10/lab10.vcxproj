@@ -151,8 +151,7 @@
     <ResourceCompile Include="lab10.rc" />
   </ItemGroup>
   <ItemGroup>
-    <Image Include="lab10.ico" />
-    <Image Include="small.ico" />
+    <Image Include="pic.ico" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

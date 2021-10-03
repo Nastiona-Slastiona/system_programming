@@ -39,10 +39,7 @@
     </ResourceCompile>
   </ItemGroup>
   <ItemGroup>
-    <Image Include="small.ico">
-      <Filter>Файлы ресурсов</Filter>
-    </Image>
-    <Image Include="lab10.ico">
+    <Image Include="pic.ico">
       <Filter>Файлы ресурсов</Filter>
     </Image>
   </ItemGroup>
