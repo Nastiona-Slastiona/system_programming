@@ -1,0 +1,5 @@
+﻿  lab7.cpp
+C:\Universe\3course\system_programming\lab7\lab7\lab7.cpp(116,6): warning C4101: i: неиспользованная локальная переменная
+  stdafx.cpp
+  Создание кода...
+  lab7.vcxproj -> C:\Universe\3course\system_programming\lab7\x64\Debug\lab7.exe
